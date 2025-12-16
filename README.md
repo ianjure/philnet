@@ -56,7 +56,7 @@ PhiLNet uses a publicly available phishing dataset hosted on Mendeley Data.
 ### **Download Instructions**
 
 1. Download the dataset from:
-   👉 [https://data.mendeley.com/datasets/n96ncsr5g4/1](https://data.mendeley.com/datasets/n96ncsr5g4/1)
+   👉 [Phishing Websites Dataset](https://data.mendeley.com/datasets/n96ncsr5g4/1)
 
 2. Extract the downloaded archive.
 
@@ -151,8 +151,7 @@ PhiLNet is already deployed as a Chrome extension:
 -   Runs directly in the browser
 -   Optimized for low latency and minimal resource usage
 
-➡️ Available on the **Chrome Web Store**
-_[PhiLNet Vanguard](https://chromewebstore.google.com/detail/nncjacjbfbidjahpfbcbdngpmflmmpee?utm_source=item-share-cb)_
+➡️ Available on the **Chrome Web Store**: [PhiLNet Vanguard](https://chromewebstore.google.com/detail/nncjacjbfbidjahpfbcbdngpmflmmpee?utm_source=item-share-cb)
 
 This repository is intended **only for research, experimentation, and model development**.
 
