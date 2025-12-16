@@ -141,7 +141,7 @@ Do not skip notebooks — each step depends on outputs from the previous one.
 
 ---
 
-## 🚀 Deployed Version (Production Use)
+## 🚀 Deployed Version
 
 PhiLNet is already deployed as a Chrome extension:
 
