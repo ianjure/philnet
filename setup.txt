@@ -1,0 +1,8 @@
+## Conda Environment Setup:
+
+conda create -n philnet python=3.8 -y
+conda activate philnet
+conda install ipykernel notebook -y
+python -m ipykernel install --user --name=philnet --display-name "philnet"
+pip install torch==2.4.1+cu118 torchvision==0.19.1+cu118 torchaudio==2.4.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
