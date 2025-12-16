@@ -1,0 +1,5 @@
+Create these folders:
+
+- textual
+- heuristic
+- fusion
