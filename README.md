@@ -152,7 +152,7 @@ PhiLNet is already deployed as a Chrome extension:
 -   Optimized for low latency and minimal resource usage
 
 ➡️ Available on the **Chrome Web Store**
-_(Search for “PhiLNet Vanguard”)_
+_[PhiLNet Vanguard](https://chromewebstore.google.com/detail/nncjacjbfbidjahpfbcbdngpmflmmpee?utm_source=item-share-cb)_
 
 This repository is intended **only for research, experimentation, and model development**.
 
