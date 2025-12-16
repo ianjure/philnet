@@ -1,0 +1,2 @@
+algorithm,learning_rate,n_estimators,best_score
+SAMME.R,1.5,300,0.8869199999999999

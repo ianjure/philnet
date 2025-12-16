@@ -1,0 +1,4 @@
+Model,Average Time per Sample (sec),Throughput (samples/sec),Model Size (MB)
+XGBoost,0.000272,3678.05,0.67
+LightGBM,0.000627,1595.88,1.32
+AdaBoost,0.026875,37.21,0.18

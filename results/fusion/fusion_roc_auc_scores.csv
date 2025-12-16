@@ -1,0 +1,5 @@
+Model,ROC-AUC
+Weighted Ensemble,0.9943
+Random Forest,0.9943
+Logistic Regression,0.9941
+Support Vector,0.9779

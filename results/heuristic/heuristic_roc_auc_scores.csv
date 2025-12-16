@@ -1,0 +1,4 @@
+Model,ROC-AUC
+LightGBM,0.9852
+XGBoost,0.9819
+AdaBoost,0.9564

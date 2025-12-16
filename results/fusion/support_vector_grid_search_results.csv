@@ -1,0 +1,13 @@
+C,class_weight,kernel,accuracy
+0.01,,linear,0.96322
+0.01,,rbf,0.96262
+0.01,balanced,linear,0.96322
+0.01,balanced,rbf,0.96262
+0.1,,linear,0.9625599999999999
+0.1,,rbf,0.9642
+0.1,balanced,linear,0.9625599999999999
+0.1,balanced,rbf,0.9642
+1.0,,linear,0.96254
+1.0,,rbf,0.96494
+1.0,balanced,linear,0.96254
+1.0,balanced,rbf,0.96494

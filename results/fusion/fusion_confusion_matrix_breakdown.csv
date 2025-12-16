@@ -1,0 +1,5 @@
+True Positive (%),True Negative (%),False Positive (%),False Negative (%),Model
+48.4,48.21,1.79,1.6,Weighted Ensemble
+48.34,48.23,1.77,1.66,Random Forest
+48.21,48.28,1.72,1.79,Support Vector
+48.07,48.44,1.56,1.93,Logistic Regression

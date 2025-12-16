@@ -1,0 +1,2 @@
+boosting_type,colsample_bytree,learning_rate,max_depth,min_child_samples,n_estimators,num_leaves,reg_alpha,reg_lambda,subsample,best_score
+gbdt,0.8,0.1,-1,10,200,63,0,1.0,0.8,0.93812

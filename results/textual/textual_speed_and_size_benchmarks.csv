@@ -1,0 +1,4 @@
+Model,Average Time per Sample (sec),Throughput (samples/sec),Model Size (MB)
+FastText,0.000128,7796.27,131.49
+TinyBERT,0.015707,63.67,55.65
+DistilBERT,0.074193,13.48,256.33

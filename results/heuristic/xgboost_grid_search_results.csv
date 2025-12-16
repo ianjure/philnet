@@ -1,0 +1,2 @@
+colsample_bytree,gamma,learning_rate,max_depth,n_estimators,reg_alpha,reg_lambda,scale_pos_weight,subsample,best_score
+0.8,0.1,0.1,6,200,0,1.0,1,0.8,0.93058

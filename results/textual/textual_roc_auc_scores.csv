@@ -1,0 +1,4 @@
+Model,ROC-AUC
+DistilBERT,0.9913
+TinyBERT,0.9899
+FastText,0.9886

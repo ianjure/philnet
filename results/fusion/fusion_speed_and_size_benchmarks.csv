@@ -1,0 +1,5 @@
+Model,Average Time per Sample (sec),Throughput (samples/sec),Model Size (MB)
+Weighted Ensemble,1e-06,1536600.23,0.0
+Logistic Regression,6.3e-05,15826.36,0.0
+Support Vector,0.000292,3421.65,0.22
+Random Forest,0.003794,263.59,4.86
